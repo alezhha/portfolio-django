@@ -1,4 +1,4 @@
 venv
-db.sqkite
+db.sqlite3
 __pycache__
-vevn/
+venv/
